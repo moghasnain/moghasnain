@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moghasnain
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning ... DSaA with c and C++
+- 🌱 I’m currently learning ...  C++  and DSA with c
 - 📫 How to reach me moghasnain1@gmail.com
 
 <!---
