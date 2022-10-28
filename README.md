@@ -2,7 +2,7 @@
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning ...  C++  and DSA with c
 - Want to be a data scientist 
-- 📫 How to reach me moghasnain2@gmail.com
+- 📫 How to reach me moghasnain3@gmail.com
 
 <!---
 moghasnain/moghasnain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
